@@ -87,6 +87,7 @@ module.exports = function(grunt) {
                 {removeTitle: true},
                 {cleanupNumericValues: {
                   floatPrecision: 0
+                  }
                 }
               ]
             }),
